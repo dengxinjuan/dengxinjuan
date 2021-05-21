@@ -2,7 +2,7 @@
 
 ## :running: I am a amazon seller transferring career into Tech. I am currently learning web development and UX/UI design.
 
-## LinkedIn:
+## LinkedIn: https://www.linkedin.com/in/xinjuandeng/
 
 ![dengxinjuan GitHub stats](https://github-readme-stats.vercel.app/api?username=dengxinjuan&show_icons=true&theme=highcontrast&hide=stars)
 
