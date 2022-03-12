@@ -1,6 +1,6 @@
 # :kissing_smiling_eyes: Hello, I'm Xinjuan
 
-## :running: I am a amazon seller transferring career into Tech. I am currently learning web development and UX/UI design.
+## :running: I am customer support engineer at OneSignal.I am learning web development, UX/UI and mobile development now.
 
 ## LinkedIn: https://www.linkedin.com/in/xinjuandeng/
 
