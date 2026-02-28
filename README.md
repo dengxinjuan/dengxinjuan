@@ -1,6 +1,6 @@
 # :kissing_smiling_eyes: Hello, I'm Xinjuan
 
-## :running: I am customer support engineer at OneSignal.I am learning web development, UX/UI and mobile development now.
+## :running:🏃 I’m a Customer Support Engineer at OneSignal, currently expanding my skills in web development, UX/UI design, and mobile development.
 
 ## LinkedIn: https://www.linkedin.com/in/xinjuandeng/
 
